@@ -21,4 +21,6 @@ test:
   database: db/test.sqlite3
 
 production:
-  url: <%= ENV['postgres://xxeojslqxecmww:8269c333804f056eeaf244bca24a9448fbdda8a5eb693846e26fbf8b7575a75a@ec2-3-89-230-115.compute-1.amazonaws.com:5432/dbh8q9pg1vei41'] %>
+  <<: *default
+  database: db/production.pg
+  url: postgres://xxeojslqxecmww:8269c333804f056eeaf244bca24a9448fbdda8a5eb693846e26fbf8b7575a75a@ec2-3-89-230-115.compute-1.amazonaws.com:5432/dbh8q9pg1vei41
