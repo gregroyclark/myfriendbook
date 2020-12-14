@@ -26,7 +26,7 @@ group :development do
 end
 
 group :development do
-  gem 'sqlite3', '~> 1.4'
+  gem 'pg'
 end
 
 group :test do
