@@ -22,4 +22,4 @@ test:
   database: db/test.postgresql
 
 production:
-  url: <%= ENV['DATABASE_URL'] %>
+  database: db/production.postgresql
