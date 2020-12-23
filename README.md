@@ -15,8 +15,8 @@
   <div id="descrip"><h2>Description</h2> </div>
   A handy way to keep up with your friends.
   <hr>
-  <div id="install"><h2>Installation</h2> </div>
-  <p></p>
+  <div id="install"><h2>Link</h2> </div>
+  <p>https://myfriendbook.herokuapp.com</p>
   <hr>
   <div id="tech"><h2>Technology</h2></div>           
   <p>HTML, CSS, JavaScript, Ruby, Rails</p>
