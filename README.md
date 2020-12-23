@@ -15,7 +15,7 @@
   <div id="descrip"><h2>Description</h2> </div>
   A handy way to keep up with your friends.
 <br/>
-A CRUD exersice w/user authentication and private user tables.
+A CRUD exercise w/user authentication and private user tables.
   <hr>
   <div id="install"><h2>Link</h2> </div>
   <p>https://myfriendbook.herokuapp.com</p>
