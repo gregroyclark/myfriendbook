@@ -15,7 +15,7 @@
   <div id="descrip"><h2>Description</h2> </div>
   A handy way to keep up with your friends.
 <br/>
-A CRUD exercise w/user authentication and private user tables.
+A CRUD exercise w/user authentication, private user tables, and Bootstrap styling.
 <br/>
 Issues - Postgres connection in live version. Feel free to clone, everything works locally.
   <hr>
