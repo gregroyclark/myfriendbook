@@ -16,6 +16,8 @@
   A handy way to keep up with your friends.
 <br/>
 A CRUD exercise w/user authentication and private user tables.
+<br/>
+Issues - Postgres connection in live version. Feel free to clone, everything works locally.
   <hr>
   <div id="install"><h2>Link</h2> </div>
   <p>https://myfriendbook.herokuapp.com</p>
