@@ -4,11 +4,11 @@ git add .
 <h1 align= "center">Friends List</h1> 
   <h2>Table of Contents<h2>
   <ul>
-  <li><a href="#description">Description</a></li>  
+  <li><a href="#description">Description</a></li> 
+  <li><a href="#demo">Demo</a></li>  
   <li><a href="#install">Try it!</a></li> 
   <li><a href="#tech">Technology</a></li> 
   <li><a href="#license">License</a></li>
-  <li><a href="#screen">Screenshots</a></li> 
   <li><a href="#contributors">Contributors</a></li>
   </ul>
     <hr>
@@ -18,7 +18,12 @@ git add .
 A CRUD exercise w/user authentication, private user tables, and Bootstrap styling.
 <br/>
 Issues - Postgres connection in live version. Feel free to clone, everything works locally.
+
+  <hr>
   
+  <div id="demo"><h2>Demo</h2></div>
+  <p><img src=""></p>
+
   <hr>
   
   <div id="install"><h2>Try it!</h2> </div>
@@ -37,11 +42,6 @@ Issues - Postgres connection in live version. Feel free to clone, everything wor
   
   <div id="license"><h2>License</h2></div>
   <p><img align="left" src="https://img.shields.io/badge/License-MIT-blue"></p><br>
-  
-  <hr>
-  
-  <div id="screen"><h2>Screenshots</h2></div>
-  <p><img src= ></p>
 
   <hr>
   
