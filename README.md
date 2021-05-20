@@ -4,7 +4,7 @@
   <h2>Table of Contents<h2>
   <ul>
   <li><a href="#descrip">Description</a></li>  
-  <li><a href="#install">Link</a></li> 
+  <li><a href="#install">Try it!</a></li> 
   <li><a href="#tech">Technology</a></li> 
   <li><a href="#use">Usage</a></li> 
   <li><a href="#license">License</a></li>
@@ -19,8 +19,12 @@ A CRUD exercise w/user authentication, private user tables, and Bootstrap stylin
 <br/>
 Issues - Postgres connection in live version. Feel free to clone, everything works locally.
   <hr>
-  <div id="install"><h2>Link</h2> </div>
-  <p>https://myfriendbook.herokuapp.com</p>
+  <div id="install"><h2>Try it!</h2> </div>
+  <p>Visit 
+    <a href="https://gregroyclark.github.io/lookitup/" target="_blank">
+    https://myfriendbook.herokuapp.com
+    </a>
+  </p>
   <hr>
   <div id="tech"><h2>Technology</h2></div>           
   <p>HTML, CSS, JavaScript, Ruby, Rails</p>
