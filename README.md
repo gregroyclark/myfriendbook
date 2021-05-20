@@ -3,16 +3,16 @@
 <h1 align= "center">Friends List</h1> 
   <h2>Table of Contents<h2>
   <ul>
-  <li><a href="#descrip">Description</a></li>  
+  <li><a href="#description">Description</a></li>  
   <li><a href="#install">Try it!</a></li> 
   <li><a href="#tech">Technology</a></li> 
   <li><a href="#use">Usage</a></li> 
   <li><a href="#license">License</a></li>
   <li><a href="#screen">Screenshots</a></li> 
-  <li><a href="#contr">Contributors</a></li>
+  <li><a href="#contributors">Contributors</a></li>
   </ul>
     <hr>
-  <div id="descrip"><h2>Description</h2> </div>
+  <div id="description"><h2>Description</h2> </div>
   A handy way to keep up with your friends.
 <br/>
 A CRUD exercise w/user authentication, private user tables, and Bootstrap styling.
@@ -38,7 +38,7 @@ Issues - Postgres connection in live version. Feel free to clone, everything wor
   <div id="screen"><h2>Screenshots</h2></div>
   <p><img src= ></p>
   <hr>
-  <div id="contr"><h2>Contributors</h2> </div>
+  <div id="contributors"><h2>Contributors</h2> </div>
 
   <p>
     Github:
