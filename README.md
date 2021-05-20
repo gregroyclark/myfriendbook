@@ -36,7 +36,7 @@ Issues - Postgres connection in live version. Feel free to clone, everything wor
   <hr>
   
   <div id="license"><h2>License</h2></div>
-  <p><img align="left" src= ></p><br>
+  <p><img align="left" src="https://img.shields.io/badge/License-MIT-blue"></p><br>
   
   <hr>
   
