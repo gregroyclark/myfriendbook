@@ -36,27 +36,9 @@ Issues - Postgres connection in live version. Feel free to clone, everything wor
   <hr>
   <div id="contr"><h2>Contributors</h2> </div>
 
-  <h4>Github:<h4> <a href= "https://github.com/gregroyclark/">https://github.com/gregroyclark/</a>
-
-<!--  This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ... -->
+  <p>
+    Github:
+      <a href= "https://github.com/gregroyclark/">
+        https://github.com/gregroyclark/
+      </a>
+  </p> 
