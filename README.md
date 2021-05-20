@@ -1,5 +1,3 @@
-# README
-
 <h1 align= "center">MyFriendBook</h1> 
   <h2>Table of Contents<h2>
   <ul>
