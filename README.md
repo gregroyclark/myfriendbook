@@ -12,13 +12,14 @@ git add .
   <li><a href="#contributors">Contributors</a></li>
   </ul>
     <hr>
-  <div id="description"><h2>Description</h2> </div>
-  A handy way to keep up with your friends.
-<br/>
-A CRUD exercise w/user authentication, private user tables, and Bootstrap styling.
-<br/>
-Issues - Postgres connection in live version. Feel free to clone, everything works locally.
-
+  <div id="description"><h2>Description</h2></div>
+  <p>
+    A handy way to keep up with your friends.
+    <br/>
+    Ruby on Rails web app w/user authentication, private user tables, and Bootstrap styling.
+    <br/>
+    Issues - Postgres connection in live version. Feel free to clone, everything works locally.
+  </p>
   <hr>
   
   <div id="demo"><h2>Demo</h2></div>
