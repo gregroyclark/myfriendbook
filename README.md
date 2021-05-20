@@ -6,7 +6,6 @@
   <li><a href="#description">Description</a></li>  
   <li><a href="#install">Try it!</a></li> 
   <li><a href="#tech">Technology</a></li> 
-  <li><a href="#use">Usage</a></li> 
   <li><a href="#license">License</a></li>
   <li><a href="#screen">Screenshots</a></li> 
   <li><a href="#contributors">Contributors</a></li>
@@ -27,10 +26,7 @@ Issues - Postgres connection in live version. Feel free to clone, everything wor
   </p>
   <hr>
   <div id="tech"><h2>Technology</h2></div>           
-  <p>HTML, CSS, JavaScript, Ruby, Rails</p>
-  <hr>
-  <div id="use"><h2>Usage</h2></div>
-  <p>Reference information</p>  
+  <p>HTML, CSS, JavaScript, Ruby, Rails</p> 
   <hr>
   <div id="license"><h2>License</h2></div>
   <p><img align="left" src= ></p><br>
